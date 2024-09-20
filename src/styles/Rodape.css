@@ -1,0 +1,16 @@
+.rodape-container {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .rodape-container p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
